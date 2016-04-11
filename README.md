@@ -5,8 +5,8 @@
 Uno de los objetivos principales de `CúcutaJS` es ser inclusiva para el
 mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
-acogedor para todos, independientemente de su sexo, orientación sexual, espiritual,
-capacidad, etnia o nivel socioeconómico.
+acogedor para todos, independientemente de su sexo, capacidad, etnia, nivel 
+socioeconómico u orientación sexual, política, espiritual o filosófica.
 
 Este código de conducta resume nuestras expectativas para todos los que
 participan en nuestra comunidad, así como las consecuencias para el
