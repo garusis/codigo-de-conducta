@@ -139,7 +139,7 @@ usted se pudo haber comunicado mejor, incluso si usted siente que fue
 malinterpretado o injustamente acusado, - recuerde que es su responsabilidad
 hacer que sus compañeras y compañeros de `CúcutaJS` estén cómodos.
 
-Todo el mundo busca harmonía y todos estamos aquí, ante todo, porque queremos
+Todo el mundo busca armonía y todos estamos aquí, ante todo, porque queremos
 hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a
 asumir buenas intenciones y perdonar, siempre y cuando usted gane su confianza y
 actúe de forma honrada.
